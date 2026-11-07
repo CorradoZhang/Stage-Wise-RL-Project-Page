@@ -12,5 +12,11 @@
 .playback-control select{font:inherit;padding:.25rem .6rem;border:1px solid #cbd5e1;border-radius:5px;background:#fff}
 @media(max-width:700px){.robot-videos video{height:auto;aspect-ratio:16/9}.robot-videos .simulation-video{aspect-ratio:1}}
 
-body > .hero:first-child{overflow:visible}
+body > .hero:first-child,body > .institution-bar + .hero{overflow:visible}
 @media(max-width:700px){.release-control:first-child .release-message{left:0;transform:none}}
+
+.institution-bar{display:block;max-width:none;margin:0;padding:.6rem 1.5rem 0;background:#fff}
+.institution-bar img{display:block;width:280px;max-width:100%;height:auto}
+.institution-bar + .hero .hero-body{padding-top:1.5rem}
+.research-group{margin:.6rem 0 1.4rem;color:#64748b;font-size:1rem}
+@media(max-width:700px){.institution-bar{padding:.5rem 1rem 0}.institution-bar img{width:225px}.institution-bar + .hero .hero-body{padding-top:1rem}}
