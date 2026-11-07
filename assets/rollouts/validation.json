@@ -1,0 +1,246 @@
+{
+  "videos": [
+    {
+      "file": "sac_flat_seed0_eval100000/agentview.mp4",
+      "sha256": "dadb8377cb1bac33e9f6da106aec86aae131c41cd62ac2ecd709116554d75e9e",
+      "size": [
+        960,
+        720
+      ],
+      "fps": 20.0,
+      "duration": 50.05
+    },
+    {
+      "file": "sac_flat_seed0_eval100000/frontview.mp4",
+      "sha256": "b6594e4b633d09d2f00b1716652fb4d2ad21b3e43d5c0a3ad6976571516f61bf",
+      "size": [
+        960,
+        720
+      ],
+      "fps": 20.0,
+      "duration": 50.05
+    },
+    {
+      "file": "sac_stagedreward_seed0_eval100000/agentview.mp4",
+      "sha256": "70cc7fee60d554664a9aa4b725abcc7db10497bae499bb4cb539cc7aa8d48d26",
+      "size": [
+        960,
+        720
+      ],
+      "fps": 20.0,
+      "duration": 15.05
+    },
+    {
+      "file": "sac_stagedreward_seed0_eval100000/frontview.mp4",
+      "sha256": "c588c93ba1991291629fcebb0c95406ce9cd460213efd900493f531efb2ad61b",
+      "size": [
+        960,
+        720
+      ],
+      "fps": 20.0,
+      "duration": 15.05
+    },
+    {
+      "file": "td3_flat_seed0_eval100000/agentview.mp4",
+      "sha256": "eedbd4b49bedf148489a7c012f354705d4e59bb834fd9fdc42ec67b772a82d49",
+      "size": [
+        960,
+        720
+      ],
+      "fps": 20.0,
+      "duration": 50.05
+    },
+    {
+      "file": "td3_flat_seed0_eval100000/frontview.mp4",
+      "sha256": "7141acf2d8e7ec3fbd1fe571946e098359e653bf51b9459bcc58e35da7814530",
+      "size": [
+        960,
+        720
+      ],
+      "fps": 20.0,
+      "duration": 50.05
+    },
+    {
+      "file": "td3_stagedreward_seed0_eval100000/agentview.mp4",
+      "sha256": "908851f587963dad1b421e614af1d39c399b0f4429a56ee9caddb68e94fa762b",
+      "size": [
+        960,
+        720
+      ],
+      "fps": 20.0,
+      "duration": 29.05
+    },
+    {
+      "file": "td3_stagedreward_seed0_eval100000/frontview.mp4",
+      "sha256": "fe4b2dcc5a13667cf04dbab7f1488fd46cad7ccdfe29501b3cb2ce010b5580c4",
+      "size": [
+        960,
+        720
+      ],
+      "fps": 20.0,
+      "duration": 29.05
+    },
+    {
+      "file": "fsm_sac_v3_pickplace5stage_seed0_eval100004/agentview.mp4",
+      "sha256": "88aa2d89d0738df7c3201f088f45be6cd2e5b26903775965c3808c42c362e505",
+      "size": [
+        960,
+        720
+      ],
+      "fps": 20.0,
+      "duration": 4.8
+    },
+    {
+      "file": "fsm_sac_v3_pickplace5stage_seed0_eval100004/frontview.mp4",
+      "sha256": "885c1f03e223d395cc3576c42446ba5096d873a901e1abce6fb18f8b0cebd195",
+      "size": [
+        960,
+        720
+      ],
+      "fps": 20.0,
+      "duration": 4.8
+    },
+    {
+      "file": "fsm_sac_v3_pickplace5stage_seed1_eval100006/agentview.mp4",
+      "sha256": "2e9d430f25d0ae29a2f83d1c68f9920bae7f9819d5108bf0b6c564a65f8543f0",
+      "size": [
+        960,
+        720
+      ],
+      "fps": 20.0,
+      "duration": 12.3
+    },
+    {
+      "file": "fsm_sac_v3_pickplace5stage_seed1_eval100006/frontview.mp4",
+      "sha256": "e33b6771646a0071b913862b8337e4f9da984a07f9de261e8f291350166fcfba",
+      "size": [
+        960,
+        720
+      ],
+      "fps": 20.0,
+      "duration": 12.3
+    },
+    {
+      "file": "fsm_sac_v3_pickplace5stage_seed2_eval100005/agentview.mp4",
+      "sha256": "a63a6a6f143f6ead400b74c2bead3d82d582d67c92a45da9c2f1ce8d1b3fc4a5",
+      "size": [
+        960,
+        720
+      ],
+      "fps": 20.0,
+      "duration": 7.5
+    },
+    {
+      "file": "fsm_sac_v3_pickplace5stage_seed2_eval100005/frontview.mp4",
+      "sha256": "f9304cb78a64a1bb990c4e37274f94a28c5e36200beedbe5684ae520733d4daa",
+      "size": [
+        960,
+        720
+      ],
+      "fps": 20.0,
+      "duration": 7.5
+    },
+    {
+      "file": "fsm_sac_v3_pickplace5stage_seed0_eval100000/agentview.mp4",
+      "sha256": "a380c03f379b4c2add65a7e3341ca50eeae82274584f9c9381fa6032ff5b8e06",
+      "size": [
+        960,
+        720
+      ],
+      "fps": 20.0,
+      "duration": 17.2
+    },
+    {
+      "file": "fsm_sac_v3_pickplace5stage_seed0_eval100000/frontview.mp4",
+      "sha256": "f1a3f5b9ccbd62c6c9f621794af27cf4a2da65e90b01e1b500d2e8fd27bb7ff8",
+      "size": [
+        960,
+        720
+      ],
+      "fps": 20.0,
+      "duration": 17.2
+    },
+    {
+      "file": "fsm_td3_v3_pickplace5stage_seed0_eval100000/agentview.mp4",
+      "sha256": "e431b41a357fddcd704f8ae5abf8939c61688813b5afeb0f0e7a442f949d369f",
+      "size": [
+        960,
+        720
+      ],
+      "fps": 20.0,
+      "duration": 5.25
+    },
+    {
+      "file": "fsm_td3_v3_pickplace5stage_seed0_eval100000/frontview.mp4",
+      "sha256": "3d427841a9a0a0c2d72e679d1aab486f2ea007b59aed2be13a7ad2747865aa7a",
+      "size": [
+        960,
+        720
+      ],
+      "fps": 20.0,
+      "duration": 5.25
+    },
+    {
+      "file": "fsm_td3_v3_pickplace5stage_seed2_eval100006/agentview.mp4",
+      "sha256": "2e5f59429f0ec3b3e23a1dee2afcb9248beda9c243436313ca1ff895bb572687",
+      "size": [
+        960,
+        720
+      ],
+      "fps": 20.0,
+      "duration": 5.6
+    },
+    {
+      "file": "fsm_td3_v3_pickplace5stage_seed2_eval100006/frontview.mp4",
+      "sha256": "483d6e8ccf30eef46114fb0d90859746b993d623378f3b82cb02bcdcbca41f3d",
+      "size": [
+        960,
+        720
+      ],
+      "fps": 20.0,
+      "duration": 5.6
+    },
+    {
+      "file": "fsm_td3_v3_pickplace5stage_seed2_eval100013/agentview.mp4",
+      "sha256": "4223a4d19241676192138eead2e774a97a8826c6371c8f671333401eccf2ebb6",
+      "size": [
+        960,
+        720
+      ],
+      "fps": 20.0,
+      "duration": 5.35
+    },
+    {
+      "file": "fsm_td3_v3_pickplace5stage_seed2_eval100013/frontview.mp4",
+      "sha256": "629e7b242b440ca4b63a141392f04c7b05d187360c9043543ed772b6f3432979",
+      "size": [
+        960,
+        720
+      ],
+      "fps": 20.0,
+      "duration": 5.35
+    },
+    {
+      "file": "fsm_td3_v3_pickplace5stage_seed0_eval100002/agentview.mp4",
+      "sha256": "ec362dfe8d76e2d2ea0c8b2519a9850551a7ed1a1805b03a653e4d6a386e1fea",
+      "size": [
+        960,
+        720
+      ],
+      "fps": 20.0,
+      "duration": 15.05
+    },
+    {
+      "file": "fsm_td3_v3_pickplace5stage_seed0_eval100002/frontview.mp4",
+      "sha256": "2864fef8cc4347675d7cff4bd2cd4cf7008f632824b346278a41608008ec805a",
+      "size": [
+        960,
+        720
+      ],
+      "fps": 20.0,
+      "duration": 15.05
+    }
+  ],
+  "matched_episodes": 12,
+  "keyframe_pngs": 126
+}
